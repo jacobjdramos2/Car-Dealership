@@ -1,0 +1,6 @@
+vin,year,model,vehicleType,color,odometer,price
+1001,2021,Corolla,Sedan,Blue,15000,18000.00
+1002,2020,Civic,Sedan,Black,22000,17000.00
+1003,2019,Rav4,SUV,White,30000,21000.00
+1004,2022,Mustang,Coupe,Red,12000,32000.00
+1005,2018,F-150,Truck,Gray,45000,25000.00
